@@ -1,0 +1,17 @@
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\obj\Debug\net8.0-windows\Sabaydash_331_num14.Form1.resources
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\obj\Debug\net8.0-windows\Sabaydash_331_num14.Form2.resources
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\obj\Debug\net8.0-windows\Sabaydash_331_num14.csproj.GenerateResource.cache
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\obj\Debug\net8.0-windows\Sabaydash_331_num14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\obj\Debug\net8.0-windows\Sabaydash_331_num14.AssemblyInfoInputs.cache
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\obj\Debug\net8.0-windows\Sabaydash_331_num14.AssemblyInfo.cs
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\obj\Debug\net8.0-windows\Sabaydash_331_num14.csproj.CoreCompileInputs.cache
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\bin\Debug\net8.0-windows\Sabaydash_331_num14.exe
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\bin\Debug\net8.0-windows\Sabaydash_331_num14.deps.json
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\bin\Debug\net8.0-windows\Sabaydash_331_num14.runtimeconfig.json
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\bin\Debug\net8.0-windows\Sabaydash_331_num14.dll
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\bin\Debug\net8.0-windows\Sabaydash_331_num14.pdb
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\obj\Debug\net8.0-windows\Sabaydash_331_num14.dll
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\obj\Debug\net8.0-windows\refint\Sabaydash_331_num14.dll
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\obj\Debug\net8.0-windows\Sabaydash_331_num14.pdb
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\obj\Debug\net8.0-windows\Sabaydash_331_num14.genruntimeconfig.cache
+C:\Users\145\Desktop\ПП.01\1\Sabaydash_331_num14\Sabaydash_331_num14\obj\Debug\net8.0-windows\ref\Sabaydash_331_num14.dll
